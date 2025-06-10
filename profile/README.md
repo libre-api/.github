@@ -1,1 +1,1 @@
-![LibreAPI](./banner.png)
+![LibreAPI](./hero.png)
